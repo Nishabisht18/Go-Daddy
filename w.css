@@ -151,7 +151,7 @@ ul{
 /*features-section*/
 .features-section{
     padding:80px var(--padding-inline-section) 0;
-    background-image:url(background.svg);
+    background-image:url(images/background.svg);
     background-repeat:no-repeat;
     background-position:center;
 
@@ -211,7 +211,7 @@ ul{
     position:relative;
     height:300px;
     background:black;
-    background-image:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(woodernboard.webp);
+    background-image:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(images/woodernboard.webp);
     background-size:cover;
     transition:0.2s ease-out;
 }
@@ -219,15 +219,15 @@ ul{
     box-shadow:0 0 10px #888;
 }
 .examples-card:nth-child(2){ 
-    background:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(book.jpg);
+    background:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(images/book.jpg);
     background-size:cover;
 }
 .examples-card:nth-child(3){ 
-    background:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(theatre.webp);
+    background:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(images/theatre.webp);
     background-size:cover;
 }
 .examples-card:nth-child(4){
-    background:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(map.jpg);
+    background:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(images/map.jpg);
     background-size:cover;
 }
 .card-text{

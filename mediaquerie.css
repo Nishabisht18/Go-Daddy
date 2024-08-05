@@ -1,5 +1,5 @@
 @media screen and (max-width:991px){
-    .nav-toggle{
+    #nav-toggle{
         display:block;
         margin: right 20px;
     }
